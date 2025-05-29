@@ -3,7 +3,6 @@
 
 
 🏆 SSIP Hackathon Finalist – recognized for innovation and problem-solving
-
 💻 Passionate about full-stack development  
 🚀 Building projects with  React, MongoDB    
 🌱 Always open to new ideas and collaboration
