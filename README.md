@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Development</h3>
 
 
-🏆 SSIP Hackathon Finalist – recognized for innovation and problem-solving
+🏆 SSIP Hackathon Finalist – recognized for innovation and problem-solving  
 💻 Passionate about full-stack development  
 🚀 Building projects with  React, MongoDB    
 🌱 Always open to new ideas and collaboration
