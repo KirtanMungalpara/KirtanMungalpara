@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm Kirtan Mungalpara 👋</h1>
+<h3 align="center">Full-stack Development</h3>
 
-<!--
-**KirtanMungalpara/KirtanMungalpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🏆 SSIP Hackathon Finalist – recognized for innovation and problem-solving
+💻 Passionate about full-stack development  
+🚀 Building projects with  React, MongoDB    
+🌱 Always open to new ideas and collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tech Stack
+- **Languages:** C++,Java, JavaScript
+- **Frontend:** React, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, PostgreSQL
+
+## 📈 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=KirtanMungalpara&show_icons=true&theme=radical
+
+## 📫 Connect with me
+
+[LinkedIn] https://www.linkedin.com/in/kirtan-mungalpara-764671253/
