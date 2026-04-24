@@ -1,23 +1,63 @@
-<h1 align="center">Hey there! I'm Kirtan Mungalpara 👋</h1>
-<h3 align="center">Full-stack Development</h3>
+<h1 align="center">Hi 👋, I'm Kirtan Mungalpara</h1>
+<h3 align="center">Full Stack Developer (MERN) | Open to Work 🚀</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KirtanMungalpara&color=blue" />
+</p>
 
-🏆 SSIP Hackathon Finalist – recognized for innovation and problem-solving  
-💻 Passionate about full-stack development  
-🚀 Building projects with  React, MongoDB    
-🌱 Always open to new ideas and collaboration
+---
 
+## 👨‍💻 About Me
+- 🎓 Final Year B.Tech (Computer Engineering)  
+- 🏆 SSIP Hackathon Finalist (Innovation & Problem Solving)  
+- 💻 Passionate about Full Stack Development  
+- 🚀 Building scalable web apps using MERN Stack  
+- 🌱 Always learning and exploring new technologies  
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages:** C++,Java, JavaScript
-- **Frontend:** React, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,js,html,css,tailwind,cpp,java" />
+</p>
 
-## 📈 GitHub Stats
+---
 
-https://github-readme-stats.vercel.app/api?username=KirtanMungalpara&show_icons=true&theme=radical
+## 🚀 Featured Projects
 
-## 📫 Connect with me
+### 🌾 Agro-Market  
+A full-stack platform connecting farmers and buyers  
+🔗 Live: [Add Link]  
+📂 GitHub: [Add Repo Link]
 
-[LinkedIn] https://www.linkedin.com/in/kirtan-mungalpara-764671253/
+---
+
+### 📚 Class Cloud  
+A virtual platform for students and teachers  
+🔗 Live: [Add Link]  
+📂 GitHub: [Add Repo Link]
+
+---
+
+### 🌍 Tourism Management System  
+Tour booking and management system  
+📂 GitHub: [Add Repo Link]
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirtanMungalpara&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtanMungalpara&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/kirtan-mungalpara-764671253/  
+- 🌐 Portfolio: https://portfolio-five-kohl-97.vercel.app/  
+- 📧 Email: kirtanmungalpara68@gmail.com  
+
+---
+
+⭐ *Open to opportunities, internships, and collaborations*
