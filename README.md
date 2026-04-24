@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirtan Mungalpara</h1>
-<h3 align="center">Full Stack Developer (MERN) | Open to Work 🚀</h3>
+<h3 align="center">Software Developer (MERN) | Open to Work 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KirtanMungalpara&color=blue" />
@@ -7,8 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Final Year B.Tech (Computer Engineering)  
+## 👨‍💻 About Me 
 - 🏆 SSIP Hackathon Finalist (Innovation & Problem Solving)  
 - 💻 Passionate about Full Stack Development  
 - 🚀 Building scalable web apps using MERN Stack  
@@ -26,16 +25,18 @@
 ## 🚀 Featured Projects
 
 ### 🌾 Agro-Market  
-A full-stack platform connecting farmers and buyers  
-🔗 Live: https://agro-market-frontend-aumn.vercel.app/ 
+A comprehensive MERN stack agricultural marketplace that bridges the gap between farmers and buyers. Features real-time crop pricing, secure transactions, and an intuitive dashboard for both sellers and buyers.
+
+🔗 Live: https://agro-market-frontend-aumn.vercel.app/
+
 📂 GitHub: https://github.com/KirtanMungalpara/agro-market-frontend
 
 ---
 
 ### 📚 Class Cloud  
-A virtual platform for students and teachers  
-🔗 Live: [Add Link]  
-📂 GitHub: [Add Repo Link]
+A full-stack web application designed to simplify online class management for students and instructors. It allows users to organize lectures, manage tasks, and stay connected through a centralized dashboard.
+
+📂 GitHub: https://github.com/KirtanMungalpara/classcloudfronted
 
 ---
 
