@@ -27,8 +27,8 @@
 
 ### 🌾 Agro-Market  
 A full-stack platform connecting farmers and buyers  
-🔗 Live: [Add Link]  
-📂 GitHub: [Add Repo Link]
+🔗 Live: https://agro-market-frontend-aumn.vercel.app/ 
+📂 GitHub: https://github.com/KirtanMungalpara/agro-market-frontend
 
 ---
 
