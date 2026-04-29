@@ -40,9 +40,12 @@ A full-stack web application designed to simplify online class management for st
 
 ---
 
-### 🌍 Tourism Management System  
-Tour booking and management system  
-📂 GitHub: [Add Repo Link]
+### 🔧 WorkTrade  
+WorkTrade is a full-stack Direct Hire platform where users can offer and request skilled services from each other. Users send private offers directly to specific providers — chat is unlocked only after a request is accepted. 
+
+🔗 Live: https://worktrade.vercel.app
+
+📂 GitHub: https://github.com/KirtanMungalpara/WorkTrade
 
 ---
 
