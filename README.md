@@ -49,6 +49,18 @@ WorkTrade is a full-stack Direct Hire platform where users can offer and request
 
 ---
 
+### 🔧 AI Meeting Notes Summarizer  
+Upload/paste transcript
+Custom prompt
+Generate structured summary (Groq LLM)
+Edit and send by email (Resend) 
+
+🔗 Live: https://ai-meeting-summarizer-seven.vercel.app/
+
+📂 GitHub: https://github.com/KirtanMungalpara/ai-meeting-summarizer
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KirtanMungalpara&show_icons=true&theme=tokyonight" />
